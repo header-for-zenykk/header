@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Головна",
+    "path": "/",
+    "subItems": [
+      {
+        "title": "Загальна інформація",
+        "path": "/general-information"
+      },
+      {
+        "title": "Установчі документи",
+        "path": "/founding-documents"
+      }
+    ]
+  },
+  {
+    "title": "Події",
+    "path": "/events",
+    "subItems": [
+      {
+        "title": "Конференції",
+        "path": "/events/conferences"
+      },
+      {
+        "title": "Семінари",
+        "path": "/events/seminars"
+      },
+      {
+        "title": "Воркшопи",
+        "path": "/events/workshops"
+      },
+      {
+        "title": "Вебінари",
+        "path": "/events/webinars"
+      },
+      {
+        "title": "Всі",
+        "path": "/events/all"
+      }
+    ]
+  },
+  {
+    "title": "Публікації",
+    "path": "/publications",
+    "subItems": [
+      {
+        "title": "КМП",
+        "path": "/publications/kmp"
+      },
+      {
+        "title": "СПТІМА (конф.)",
+        "path": "/publications/sptima"
+      }
+    ]
+  },
+  {
+    "title": "Члени товариства",
+    "path": "/members"
+  },
+  {
+    "title": "Цікаві лінки",
+    "path": "/links",
+    "subItems": [
+      {
+        "title": "Інші товариства",
+        "path": "/links/other-societies"
+      },
+      {
+        "title": "Цікаві лінки",
+        "path": "/links/interesting"
+      }
+    ]
+  },
+  {
+    "title": "Зв'язатися з нами",
+    "path": "/contact"
+  },
+  {
+    "title": "Подати заявку на вступ",
+    "path": "/apply"
+  }
+]
