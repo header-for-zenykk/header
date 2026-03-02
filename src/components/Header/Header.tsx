@@ -9,7 +9,7 @@ const typedMenuData = menuData as MenuItem[];
 export const Header: React.FC = () => {
   return (
     <header className="header">
-      <div className="logo">ІФМТ</div>
+      <div className="logo">КНУ</div>
       <nav className="navigation">
         <ul className="nav-list">
           {typedMenuData.map((item, index) => (
